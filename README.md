@@ -1,4 +1,4 @@
 # Personal Website
-My basic personal website.
+A basic personal website.
 
 
